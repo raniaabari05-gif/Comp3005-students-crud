@@ -3,7 +3,7 @@
 A Python command-line app that connects to a PostgreSQL database and performs
 Create, Read, Update and Delete operations on a `students` table.
 
-**Demo video:** <PASTE VIDEO LINK HERE>
+**Demo video:** https://youtu.be/JSpdq0yf_z8
 
 ## Repository structure
 
